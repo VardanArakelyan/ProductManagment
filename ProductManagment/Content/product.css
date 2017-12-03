@@ -1,0 +1,19 @@
+﻿.headerNames span {
+    width: 200px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.content {
+    width: 860px;
+    margin: 20px auto;
+}
+
+.pagingControlContainer {
+    width: 200px;
+    margin: 0 auto;
+}
+
+input.ng-invalid {
+    background-color: pink;
+}
